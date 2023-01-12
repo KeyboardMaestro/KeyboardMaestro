@@ -1,4 +1,5 @@
-<div align=center>![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Keyboard%20Maestro&fontSize=90)
+<div align=center>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Keyboard%20Maestro&fontSize=90)
 <h1>&#9989; Experiences</h1></div>
 
 <div align=center> 
