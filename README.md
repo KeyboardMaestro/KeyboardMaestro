@@ -1,6 +1,4 @@
-<div align=center>
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Keyboard%20Maestro&fontSize=90)
-<h1>&#9989; Experiences</h1></div>
+<div align=center><h1>&#9989; Experiences</h1></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
