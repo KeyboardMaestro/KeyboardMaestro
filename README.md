@@ -25,4 +25,6 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitLab-orange?style=for-the-badge&logo=gitlab&logoColor=white">
   <br>
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=proceane&theme=darkhub&title=MultiLanguage,Joined2020,Commits,PullRequest,Issue,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
