@@ -26,6 +26,8 @@
   <img src="https://img.shields.io/badge/GitLab-orange?style=for-the-badge&logo=gitlab&logoColor=white">
   <br>
   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeyboardMaestro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+      <br>
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KeyboardMaestro&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
     <br>
  [![trophy](https://github-profile-trophy.vercel.app/?username=KeyboardMaestro&theme=darkhub&title=MultiLanguage,Joined2018,Commits,PullRequest,Issue,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
