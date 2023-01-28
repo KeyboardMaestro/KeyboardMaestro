@@ -30,5 +30,4 @@
       <br>
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KeyboardMaestro&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
     <br>
- [![trophy](https://github-profile-trophy.vercel.app/?username=KeyboardMaestro&theme=darkhub&title=MultiLanguage,Joined2018,Commits,PullRequest,Issue,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
